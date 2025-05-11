@@ -11,7 +11,10 @@ Rust, Bevy
 - **原仓库链接**：[marcelchampagne/bevy-basics](https://github.com/marcelchampagne/bevy-basics)
 - **分支说明**：本仓库创建了不同分支， 每个Episode对应一个独立的分支。
 - **Bevy版本**：已更新至Bevy 0.16.0，以修复部分代码与新版本的兼容性问题。
-
+- **使用的资产与原教程不同**： 
+Premium Models - now free! by dook [CC-BY] via Poly Pizza
+https://poly.pizza/bundle/Premium-Models---now-free!-urGq3v5j9e
+https://poly.pizza/u/dook
 ---
 
 ## 分支与Episode对应关系
@@ -43,7 +46,10 @@ This is a code repository based on the [YouTube video tutorial](https://www.yout
 - **Original Repository Link**: [marcelchampagne/bevy-basics](https://github.com/marcelchampagne/bevy-basics)
 - **Branch Description**: This repository has created different branches, with each Episode corresponding to an independent branch.
 - **Bevy Version**: Updated to Bevy 0.16.0 to fix compatibility issues with the new version.
-
+- **Assets From**: 
+Premium Models - now free! by dook [CC-BY] via Poly Pizza
+https://poly.pizza/bundle/Premium-Models---now-free!-urGq3v5j9e
+https://poly.pizza/u/dook
 ---
 
 ## Branch and Episode Correspondence
