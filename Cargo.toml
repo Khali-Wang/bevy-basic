@@ -5,6 +5,7 @@ edition = "2024"
 
 [dependencies]
 bevy = {version = "0.16.0", features = ["jpeg"]}
+rand = "0.8.5"
 
 # Enable a small amount of optimization in debug mode
 [profile.dev]
