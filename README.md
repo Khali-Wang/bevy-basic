@@ -16,7 +16,9 @@ Premium Models - now free! by dook [CC-BY] via Poly Pizza
 https://poly.pizza/bundle/Premium-Models---now-free!-urGq3v5j9e
 https://poly.pizza/u/dook
 - **Episode3 使用的资产与原教程相同**:
-
+Ultimate Space Kit by Quaternius via Poly Pizza
+https://poly.pizza/bundle/Ultimate-Space-Kit-YWh743lqGX
+https://poly.pizza/u/Quaternius
 ---
 
 ## 分支与Episode对应关系
@@ -48,10 +50,14 @@ This is a code repository based on the [YouTube video tutorial](https://www.yout
 - **Original Repository Link**: [marcelchampagne/bevy-basics](https://github.com/marcelchampagne/bevy-basics)
 - **Branch Description**: This repository has created different branches, with each Episode corresponding to an independent branch.
 - **Bevy Version**: Updated to Bevy 0.16.0 to fix compatibility issues with the new version.
-- **Assets From**: 
+- **Assets From**: (Episode2)
 Premium Models - now free! by dook [CC-BY] via Poly Pizza
 https://poly.pizza/bundle/Premium-Models---now-free!-urGq3v5j9e
 https://poly.pizza/u/dook
+(Episode3+, same as the tutorial)
+Ultimate Space Kit by Quaternius via Poly Pizza
+https://poly.pizza/bundle/Ultimate-Space-Kit-YWh743lqGX
+https://poly.pizza/u/Quaternius
 ---
 
 ## Branch and Episode Correspondence
