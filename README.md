@@ -11,10 +11,12 @@ Rust, Bevy
 - **原仓库链接**：[marcelchampagne/bevy-basics](https://github.com/marcelchampagne/bevy-basics)
 - **分支说明**：本仓库创建了不同分支， 每个Episode对应一个独立的分支。
 - **Bevy版本**：已更新至Bevy 0.16.0，以修复部分代码与新版本的兼容性问题。
-- **使用的资产与原教程不同**： 
+- **使用的资产与原教程不同**： (Episode2)
 Premium Models - now free! by dook [CC-BY] via Poly Pizza
 https://poly.pizza/bundle/Premium-Models---now-free!-urGq3v5j9e
 https://poly.pizza/u/dook
+- **Episode3 使用的资产与原教程相同**:
+
 ---
 
 ## 分支与Episode对应关系
